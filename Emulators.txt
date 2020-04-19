@@ -1,0 +1,16 @@
+
+Work file detected:  ReadMe.txt
+Tracked files: .git ClientEmulation.py  Emulators.txt  ReadMe.txt 
+Commitment: git commit -m "Commit 202004191259 "
+
+Work file detected:  ReadMe.txt
+Tracked files: .git ClientEmulation.py  Emulators.txt  ReadMe.txt 
+Commitment: git commit -m "Commit 202004191301 "
+
+
+Tracked files: .git ClientEmulation.py  Emulators.txt  ReadMe.txt 
+Commitment: git commit -m "Commit 202004191305 "
+
+
+Tracked files: .git ClientEmulation.py  Emulators.txt  ReadMe.txt 
+Commitment: git commit -m "Commit 202004191306 "
