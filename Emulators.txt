@@ -22,3 +22,7 @@ Commitment: git commit -m "Commit 202004191309 "
 
 Tracked files: ['.git', 'ClientEmulation.py', 'Emulators.txt', 'ReadMe.txt']
 Commitment: git commit -m "Commit 202004191311 "
+
+
+Tracked files: ['.git', 'ClientEmulation.py', 'Emulators.txt', 'ReadMe.txt']
+Commitment: git commit -m "Commit 202004191336 "
